@@ -1,0 +1,19 @@
+{
+  "name": "cloudgarage",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atsushi Nakatsugawa",
+  "bin": {
+    "cloudgarage": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "prompts": "^2.0.0",
+    "superagent": "^4.0.0"
+  }
+}
